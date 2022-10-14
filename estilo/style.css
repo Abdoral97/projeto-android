@@ -188,9 +188,12 @@ aside > ul{
 footer{
    background-color: var(--cor5); 
    color: white;
-   text-align: center;
    font-size: 0.8em;
    padding: 0.1px;
+}
+
+footer p {
+    text-align: center;
 }
 
 footer p > a {
